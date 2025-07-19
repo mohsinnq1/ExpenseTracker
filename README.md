@@ -18,4 +18,4 @@ A desktop expense tracking app with category management, SQLite database, and PD
 - SQLite JDBC Driver (bundled)
 
 ## Author
-Mohsin Naawaz
+Mohsin Nawaz
